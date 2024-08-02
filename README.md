@@ -2,8 +2,8 @@
 
 ## I use this features in this project
 
-### useState() , useEffect() , and customHooks (useKey() , useLocalStorage() , useMovie())
+#### useState() , useEffect() , and customHooks (useKey() , useLocalStorage() , useMovie())
 
-### styling way : tailwindcss
+#### styling way : tailwindcss
 
-### dark and light mode
+#### dark and light mode
