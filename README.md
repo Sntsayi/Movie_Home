@@ -7,3 +7,5 @@
 #### styling way : tailwindcss
 
 #### dark and light mode
+
+##### To start project do this => write in terminal first: npm i , second: npm run dev
